@@ -1,4 +1,4 @@
-
+# palindrome
 sentence = """He met his mom at noon and she was watching an epsoide of the begninging of her Solos. Her tenet helped her to level up her stats. After that he went to kayak driving Civic Honda."""
 
 def reverse_word (word):
